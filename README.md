@@ -1,11 +1,6 @@
 # Trecias-Projektas
 Sukurtas programos studentų galutiniams balams skaičiuoti diegimo failas - setup.exe
 
-### Setup.exe naudojimo instrukcija
-- Parsisiųsti InstallShield 
-- Parsisiųsti setup.exe ir atlikti įdiegimo žingsnius kuriuos nurodo setup.exe
-- Atidaryti parsiųstą projektą tarp InstallShield projektų 
-- Paspausti 'files' tab ir ten rasite programos main.exe kurį galte paleisti programos paleidimui arba .cpp .h failus kuriuos galite atsidaryti per norimą compiliatorių 
 
 ### Naudojimas:
 Paleidus programą bus prašoma:
