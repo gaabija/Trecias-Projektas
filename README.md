@@ -1,6 +1,11 @@
 # Trecias-Projektas
 Sukurtas programos studentų galutiniams balams skaičiuoti diegimo failas - setup.exe
 
+### setup.exe naudojimas
+- Atsiųskite setup.exe ar .msi failą
+- Sekite Setup Wizard nurodymus, jums reikės nurodyti kur instaliuoti programą
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/113300842/208936259-71b35994-fdf0-4067-b410-871a3e490381.png">
+- Sparčiasias programėlės nuorodas rasite ant darbalaukio ir programų meniu
 
 ### Naudojimas:
 Paleidus programą bus prašoma:
@@ -24,6 +29,8 @@ Jei pasirenkate negeneruoti failo prašoma:
 
 
 ## Versijos:
+### v3.0 
+- Sukurtas setup.exe
 ### v2.0
 - Sukurta dokumentacija panaudojant Doxygen
 ### v1.5
